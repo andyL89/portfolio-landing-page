@@ -55,3 +55,10 @@ ul {
   border: 5px solid rgb(254, 216, 211);
   padding: 5px;
 }
+
+.beach img {
+  display: inline;
+  float:right;
+  width: 50%;
+  height: auto;
+}
