@@ -13,6 +13,10 @@
 
 This project contains the HTML and CSS code that I used to create a working portfolio website which displays my background, hobbies, music ventures, and a list of projects I have worked on during my first week as a student at Epicodus.
 
+## Github Pages Link
+
+https://andyl89.github.io/portfolio-landing-page/
+
 ## Setup/Installation Requirements
 
 1. Clone https://github.com/andyL89/portfolio-landing-page.git.
