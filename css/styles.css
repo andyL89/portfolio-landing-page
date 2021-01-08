@@ -31,16 +31,26 @@ ul {
   width: 50%;
 }
 
-.box {
+.box1 {
   width: 270px;
-  border: 15px solid green;
+  border: 10px solid green;
   padding: 15px;
   margin: 20px;
 }
 
-.sidebar {
+.box2 {
   width: 270px;
-  border: 15px solid green;
+  border: 10px solid green;
   padding: 15px;
   margin: 20px;
+}
+
+.aboutMe p {
+  border: 5px solid rgb(216, 249, 232);
+  padding: 3px;
+}
+
+.backGround p {
+  border: 5px solid rgb(254, 216, 211);
+  padding: 3px;
 }
