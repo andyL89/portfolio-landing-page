@@ -36,14 +36,11 @@ ul {
   border: 10px solid green;
   padding: 15px;
   margin: 20px;
+  display:inline-block;
+  justify-content: space-evenly;
 }
 
-.box2 {
-  width: 270px;
-  border: 10px solid green;
-  padding: 15px;
-  margin: 20px;
-}
+
 
 .aboutMe p {
   border: 5px solid rgb(216, 249, 232);
