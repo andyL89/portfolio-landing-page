@@ -10,11 +10,12 @@ h2 {
 
 p {
   font-family: sans-serif;
+  line-height: 20px;
 }
 
 ul {
   font-size: 20px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .center {
@@ -23,3 +24,4 @@ ul {
   margin-right: auto;
   width: 50%;
 }
+
