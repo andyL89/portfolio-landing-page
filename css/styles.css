@@ -15,8 +15,13 @@ h3 {
   text-align: center;
 }
 
+
 p {
-  line-height: 20px;
+  line-height: 25px;
+}
+
+.funnyFont {
+  font-family: fantasy;
 }
 
 ul {
@@ -40,14 +45,12 @@ ul {
   justify-content: space-evenly;
 }
 
-
-
 .aboutMe p {
   border: 5px solid rgb(216, 249, 232);
-  padding: 3px;
+  padding: 5px;
 }
 
 .backGround p {
   border: 5px solid rgb(254, 216, 211);
-  padding: 3px;
+  padding: 5px;
 }
