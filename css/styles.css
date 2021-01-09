@@ -1,8 +1,10 @@
 body {
+  text-align: center;
   font-family: sans-serif;
 }
 
 h1 {
+  text-shadow: papayawhip;
   font-size: 300%;
   text-align: center;
 }
@@ -14,6 +16,21 @@ h2 {
 h3 {
   text-align: center;
   text-decoration: underline;
+}
+
+h4 {
+  color: rgb(65, 152, 65);
+  margin: 75px;
+}
+
+ul {
+  text-align: left;
+  list-style-position: inside;
+}
+
+ol {
+  text-align: left;
+  list-style-position: inside;
 }
 
 
